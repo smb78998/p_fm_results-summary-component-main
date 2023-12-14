@@ -6,7 +6,10 @@ Design Preview
 ![Design preview for the Results summary component coding challenge](./design/desktop-preview.jpg)
 
 My solution Preview
-[My solution](image.png)
+<br>
+![My solution](./image%20V2.jpg?raw=true)
+
+<a src="./image%20V2.jpg"><img src="./image%20V2.jpg" ></a>
 
 ## Table of contents
 
