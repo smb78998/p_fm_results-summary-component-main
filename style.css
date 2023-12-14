@@ -140,7 +140,7 @@ body{
 .one{
     color: hsl(0, 100%, 67%);
     background-color: hsla(0, 100%, 67%, .15);
-    vertical-align:text-top;
+   
 }
 
 .one:hover{
