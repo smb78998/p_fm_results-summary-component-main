@@ -9,7 +9,6 @@ My solution Preview
 <br>
 ![My solution](./image%20V2.jpg?raw=true)
 
-<a src="./image%20V2.jpg"><img src="./image%20V2.jpg" ></a>
 
 ## Table of contents
 
